@@ -24,10 +24,7 @@ A web-based application that allows community members to report and visualize cr
 
 No installation required for the basic version - just open the HTML file in a browser. For development:
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/crime-reporting-map.git
-   ```
+1. Clone this repository
 
 2. Open `index.html` in your preferred web browser.
 
@@ -56,6 +53,6 @@ Contributions are welcome!
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-Project Link: [Live Demo](https://crimemapp.netlify.app/)
+Project Demo: [Live Demo](https://crimemapp.netlify.app/)
 
 ---
